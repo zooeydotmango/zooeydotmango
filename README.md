@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
+</p>
 
 <!--
 **zooeydotmango/zooeydotmango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
